@@ -35,3 +35,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 kakaxehady@mailinator.net
+3f24f18677d98697b7165f57745a7743
