@@ -1,5 +1,7 @@
 # weather
 
+A simple project to show the weather forcast as well as current weather
+
 ## Project setup
 
 ```
@@ -33,6 +35,3 @@ npm run lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-kakaxehady@mailinator.net
-3f24f18677d98697b7165f57745a7743
